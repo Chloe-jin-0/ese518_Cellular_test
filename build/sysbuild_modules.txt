@@ -1,0 +1,2 @@
+"nrf":"C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/nrf":"C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/nrf/sysbuild"
+"mcuboot":"C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/bootloader/mcuboot":"C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/bootloader/mcuboot/boot/zephyr/sysbuild"

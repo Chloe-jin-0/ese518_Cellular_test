@@ -1,0 +1,33 @@
+empty_file.o: \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/misc/empty_file.c \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/boards/nordic/nrf9160dk/nrf9160dk_nrf9160_ns.dts \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/dts/arm/nordic/nrf9160ns_sica.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/dts/common/mem.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/dts/arm/nordic/nrf91ns.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/dts/arm/armv8-m.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/dts/common/skeleton.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/dts/common/nordic/nrf_common.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/dt-bindings/adc/adc.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/dt-bindings/dt-util.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/sys/util_macro.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/sys/util_internal.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/sys/util_loops.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/sys/util_listify.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/sys/util_internal_is_eq.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/sys/util_internal_util_inc.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/sys/util_internal_util_dec.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/sys/util_internal_util_x2.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/dt-bindings/adc/nrf-adc.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/dt-bindings/gpio/gpio.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/dt-bindings/i2c/i2c.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/dt-bindings/pinctrl/nrf-pinctrl.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/include/zephyr/dt-bindings/pwm/pwm.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/dts/common/freq.h \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/dts/arm/nordic/override.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/dts/arm/nordic/nrf91_peripherals.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/boards/nordic/nrf9160dk/nrf9160dk_nrf9160_common.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/boards/nordic/nrf9160dk/nrf9160dk_nrf9160_common-pinctrl.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/boards/nordic/nrf9160dk/nrf9160dk_nrf9160_partition_conf.dtsi \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/boards/nordic/nrf9160dk/nrf9160dk_nrf9160_ns_0_14_0.overlay \
+ C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/boards/nordic/nrf9160dk/nrf9160dk_nrf9160_common_0_14_0.dtsi

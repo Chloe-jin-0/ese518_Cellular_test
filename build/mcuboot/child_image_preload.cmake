@@ -1,0 +1,12 @@
+# Generated file used for preloading a child image
+set(CMAKE_BUILD_TYPE "" CACHE INTERNAL "NCS child image controlled")
+set(CMAKE_VERBOSE_MAKEFILE "FALSE" CACHE INTERNAL "NCS child image controlled")
+set(BOARD_DIR "C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/boards/nordic/nrf9160dk" CACHE INTERNAL "NCS child image controlled")
+set(BOARD_REVISION "0.14.0" CACHE INTERNAL "NCS child image controlled")
+set(ZEPHYR_TOOLCHAIN_VARIANT "zephyr" CACHE INTERNAL "NCS child image controlled")
+set(NCS_TOOLCHAIN_VERSION "NONE" CACHE INTERNAL "NCS child image controlled")
+set(WEST_PYTHON "C:/ncs/toolchains/ce3b5ff664/opt/bin/python.exe" CACHE INTERNAL "NCS child image controlled")
+set(BOARD_ROOT "c:/users/jin/documents/github/ese518_cellular_test" CACHE INTERNAL "NCS child image controlled")
+set(FILE_SUFFIX "" CACHE INTERNAL "NCS child image controlled")
+set(BOARD "nrf9160dk/nrf9160" CACHE INTERNAL "NCS child image controlled")
+set(EXTRA_CONF_FILE "C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/nrf/modules/mcuboot/tfm.conf;C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/nrf/modules/mcuboot/fih_low_enable.conf;C:/Users/Jin/Documents/GitHub/ese518_Cellular_test/nrf/subsys/partition_manager/partition_manager_enabled.conf" CACHE INTERNAL "NCS child image controlled")

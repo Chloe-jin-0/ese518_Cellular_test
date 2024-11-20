@@ -1,0 +1,16 @@
+{
+  "board": "nrf9160dk/nrf9160/ns",
+  "boardRevision": "",
+  "boardDir": "c:/Users/Jin/Documents/GitHub/ese518_Cellular_test/zephyr/boards/nordic/nrf9160dk",
+  "shouldBuild": true,
+  "optimizations": "none",
+  "cmakeArgs": [
+    "-DCONFIG_AT_HOST_LIBRARY=\"n\""
+  ],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}
